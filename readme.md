@@ -17,9 +17,9 @@ js_audit_system/
 ├── config.py
 ├── websites.txt
 ├── results/
-│   ├── unionback.youdao.com/
+│   ├── unionback.xxx.com/
 │   │   └── 网站安全审计报告.md    
-│   └── union.youdao.com/
+│   └── union.xxx.com/
 │       └── 网站安全审计报告.md    
 └── requirements.txt
 ```
